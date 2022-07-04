@@ -1,6 +1,6 @@
 #  Note Taker 
 
-Deployed on [Heroku][1]! 
+Deployed on [Heroku][1] 
 
 Front-end starter code from [Xandromus][2]
 
